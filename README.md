@@ -24,4 +24,4 @@ Installation:
 
 To run, just start the Apache process.
 
-The register_host.sh is a very basic script that will prompt and register the host. It also performs some basic host-side validation prior to registration.
+The register_host.sh is a very basic script that will prompt and register the host. It also performs some basic host-side validation prior to registration. It checks for a valid IP and that the hostname has been set.
