@@ -23,3 +23,5 @@ Installation:
 * napi.wsgi - Place in /var/www/napi directory and give ownership to the apache/www-data user.
 
 To run, just start the Apache process.
+
+The register_host.sh is a very basic script that will prompt and register the host. It also performs some basic host-side validation prior to registration.
